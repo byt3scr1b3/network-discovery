@@ -6,7 +6,7 @@ This Bash script facilitates network exploration by identifying network ranges, 
 
 Clone the Repository:
 
-    git clone https://github.com/byt3scrib3/network-discovery.git
+    git clone https://github.com/byt3scr1b3/network-discovery.git
 
 # Run the Script:
 
